@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 4077993375
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c152b883d6ba9c0e8dd6fbcf07807eb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 700cce780156dfdd5fdd2ee7678caad4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/UI/001-startmenu/pic_\u4E911.png"
+- "Assets/UI/001-startmenu/btn_\u516C\u5171\u84DD4.png"
+- "Assets/UI/001-startmenu/btn_\u6D41\u75451.png"
+- "Assets/UI/001-startmenu/btn_\u5173\u95ED2.png"
+- "Assets/UI/001-startmenu/\u7537.png"
+- "Assets/UI/001-startmenu/pic_\u811A\u4E0B\u4E912.png"
+- "Assets/UI/001-startmenu/btn_\u516C\u5171\u84DD1.png"
+- "Assets/UI/001-startmenu/btn_2\u8FD4\u56DE4.png"
+- "Assets/UI/001-startmenu/btn_\u7EA23.png"
+- "Assets/UI/001-startmenu/btn_\u706B\u72064.png"
+- "Assets/UI/001-startmenu/btn_\u7EA22.png"
+- "Assets/UI/001-startmenu/pic_\u8FDB\u5EA6\u6761.png"
+- "Assets/UI/001-startmenu/pic_\u8FDB\u5EA6\u6761\u7279\u6548.png"
+- "Assets/UI/001-startmenu/btn_\u7EA21.png"
+- "Assets/UI/001-startmenu/btn_\u706B\u72062.png"
+- Assets/Resources/Test.mat
+- "Assets/UI/001-startmenu/pic_\u6CE8\u518C\u8F93\u5165\u6846.png"
+- "Assets/UI/001-startmenu/\u5973.png"
+- Assets/UI/001-startmenu/BG.png
+- "Assets/UI/001-startmenu/btn_\u6D41\u75453.png"
+- "Assets/UI/001-startmenu/\u6DF1\u84DD3.png"
+- "Assets/UI/001-startmenu/pic_\u8FDB\u5EA6\u4EBA\u7269.png"
+- "Assets/UI/001-startmenu/btn_\u6D41\u75454.png"
+- "Assets/UI/001-startmenu/pic_\u811A\u4E0B\u4E911.png"
+- "Assets/UI/001-startmenu/bg_\u6CE8\u518C.png"
+- "Assets/UI/001-startmenu/btn_\u6DF1\u84DD1.png"
+- "Assets/UI/001-startmenu/bg_\u9009\u670D\u5E95.png"
+- "Assets/UI/001-startmenu/btn_\u706B\u72061.png"
+- "Assets/UI/001-startmenu/btn_\u516C\u5171\u84DD3.png"
+- "Assets/UI/001-startmenu/btn_\u706B\u72063.png"
+- "Assets/UI/001-startmenu/btn_\u5173\u95ED3.png"
+- "Assets/UI/001-startmenu/\u6DF1\u84DD2.png"
+- "Assets/UI/001-startmenu/bg_\u516C\u544A\u5E95.png"
+- Assets/UI/001-startmenu/pic_logo.png
+- "Assets/UI/001-startmenu/pic_\u4E912.png"
+- "Assets/UI/001-startmenu/btn_2\u8FD4\u56DE2.png"
+- "Assets/UI/001-startmenu/pic_\u6DF1\u84DD.png"
+- "Assets/UI/001-startmenu/btn_2\u8FD4\u56DE1.png"
+- "Assets/UI/001-startmenu/btn_\u5173\u95ED1.png"
+- "Assets/UI/001-startmenu/pic_\u4EBA\u7269.png"
+- "Assets/UI/001-startmenu/btn_\u516C\u5171\u84DD2.png"
+- "Assets/UI/001-startmenu/btn_\u6D41\u75452.png"
+- "Assets/UI/001-startmenu/bg_\u8FDB\u5165\u6E38\u620F\u5E95\u677F.png"
+- "Assets/UI/001-startmenu/btn_\u7EA24.png"
+- "Assets/UI/001-startmenu/btn_\u5173\u95ED4.png"
+- "Assets/UI/001-startmenu/btn_2\u8FD4\u56DE3.png"
+- "Assets/UI/001-startmenu/pic_\u4FE1\u606F\u5E95.png"
+- "Assets/UI/001-startmenu/btn_\u6DF1\u84DD4.png"
+- "Assets/UI/001-startmenu/pic_\u8FDB\u5EA6\u6761\u5E95.png"
+Dependencies: []
